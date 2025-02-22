@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://alqudss.com
+
+# Sitemaps
+Sitemap: https://alqudss.com/sitemap.xml
